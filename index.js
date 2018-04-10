@@ -12,3 +12,4 @@ function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`
 }
 holidayCountdown("Christmas", 24)
+console.log(holidayCountdown)
