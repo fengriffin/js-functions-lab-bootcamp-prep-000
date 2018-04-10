@@ -12,7 +12,7 @@ function holidayCountdown(holiday, days) {
   console.log (`It's ${days} days until ${holiday}!`)
 }
 
-holidayCountdown("Christmas", 24)
+holidayCountdown("Easter", 29)
 
 
 
